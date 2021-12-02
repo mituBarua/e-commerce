@@ -1,0 +1,16 @@
+.header{
+    text-align: center;
+}
+.header nav{
+    background-color: black;
+    line-height: 40px;
+    /* text-align: lecft; */
+}
+.header nav a{
+    text-decoration: none;
+    color:white;
+    margin-right: 20px;
+}
+.logo{
+    height: 50px;
+}
